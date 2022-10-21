@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### I'm Mihir Chakma. 
+
+This is my personal portfolio for Rust programming.
+
+- 🔭 I’m currently working on Chakma.rs
+- 🌱 I’m currently learning Rust.
+
 <!--
 **chakmars/chakmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

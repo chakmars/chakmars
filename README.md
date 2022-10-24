@@ -4,7 +4,7 @@
 
 This is my personal portfolio for Rust programming.
 
-- 🔭 I’m currently working on Chakma.rs
+- 🔭 I’m currently working on Ubunsoft.
 - 🌱 I’m currently learning Rust.
 
 <!--

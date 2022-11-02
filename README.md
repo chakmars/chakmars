@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### I'm Mihir Chakma. 
-
 This is my personal portfolio for Rust programming.
 
 - 🔭 I’m currently working on Google.
